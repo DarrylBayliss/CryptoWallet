@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ArgentWallet</string>
+    <string name="ethereum_address_title">Address:</string>
+    <string name="ethereum_balance_title">ETH Balance:</string>
+    <string name="ethereum_balance_value_format">%1$s (%2$s ETH)</string>
+    <string name="erc20_tokens_title">ERC20 Tokens</string>
+    <string name="token_balance_string_format">%1$s Balance: %2$d %3$s</string>
+    <string name="erc20_tokens_search_view_hint">Search for an ERC20 token</string>
+    <string name="no_token_found">No Token Found!</string>
+</resources>
